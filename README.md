@@ -14,6 +14,6 @@ Further Improvements:
 * Adding a data orchestrator
 * Wrapping with a container
 
-Input is book_train.parquet folder to be stored in 'data' folder downloaded from [here][https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/data?select=book_train.parquet]
+Input is book_train.parquet folder to be stored in 'data' folder downloaded from [here](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/data?select=book_train.parquet)
 
 
