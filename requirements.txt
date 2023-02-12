@@ -1,0 +1,6 @@
+dask==2023.2.0
+fastapi==0.91.0
+great_expectations==0.15.48
+pandas==1.5.2
+SQLAlchemy==2.0.3
+uvicorn==0.20.0
